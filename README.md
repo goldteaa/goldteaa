@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm AM👋
 
 🎓 Master's in **Data Science & Business Analytics**  

@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**goldteaa/goldteaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm AM👋
 
-Here are some ideas to get you started:
+🎓 Master's in **Data Science & Business Analytics**  
+📍 UNYT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about:
+
+- Machine Learning
+- Data Science
+- Python Development
+- AI Applications
+
+---
+
+# 🚀 Projects
+
+### 🧠 Heart Disease Prediction ML
+Machine learning pipeline predicting heart disease using clinical data.
+
+🔗 https://github.com/goldteaa/heart-disease-prediction-ml
+
+---
+
+# 🛠 Tech Stack
+
+Python  
+Pandas  
+NumPy  
+Scikit-learn  
+Matplotlib  
+Seaborn  
+Jupyter Notebook  
+
+---
+
+# 📊 Areas of Interest
+
+• Machine Learning  
+• Predictive Modeling  
+• Data Analysis  
+• Feature Engineering  
+
+---

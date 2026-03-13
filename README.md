@@ -1,5 +1,3 @@
-# Hi, I'm Artea 👋
-
 🎓 Bachelor's in **Computer Science**
 🎓 Master's in **Data Science & Business Analytics**
 📍 UNYT
